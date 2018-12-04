@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\Busqueda secuencial\Busqueda secuencial\bin\Debug\Busqueda secuencial.exe.config
+C:\Users\Acer\source\repos\Busqueda secuencial\Busqueda secuencial\bin\Debug\Busqueda secuencial.exe
+C:\Users\Acer\source\repos\Busqueda secuencial\Busqueda secuencial\bin\Debug\Busqueda secuencial.pdb
+C:\Users\Acer\source\repos\Busqueda secuencial\Busqueda secuencial\obj\Debug\Busqueda secuencial.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Busqueda secuencial\Busqueda secuencial\obj\Debug\Busqueda secuencial.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Busqueda secuencial\Busqueda secuencial\obj\Debug\Busqueda secuencial.exe
+C:\Users\Acer\source\repos\Busqueda secuencial\Busqueda secuencial\obj\Debug\Busqueda secuencial.pdb
